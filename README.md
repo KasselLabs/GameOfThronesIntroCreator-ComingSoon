@@ -1,5 +1,5 @@
-# Westworld Intro Creator
+# Game of Thrones Intro Creator
 
-[https://westworldintrocreator.kassellabs.io/](https://westworldintrocreator.kassellabs.io/)
+[https://gameofthronesintrocreator.kassellabs.io/](https://gameofthronesintrocreator.kassellabs.io/)
 
 Coming soon!
